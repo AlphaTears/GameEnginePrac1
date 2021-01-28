@@ -1,0 +1,121 @@
+material Examples/Ninja
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture nskingr.jpg
+			}
+		}
+	}
+}
+
+material Examples/Rockwall
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture rockwall.tga
+			}
+		}
+	}
+}
+material textures/RustyBarrel
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture RustyBarrel.png
+			}
+		}
+	}
+}
+material textures/BumpyMetal
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture BumpyMetal.jpg
+			}
+		}
+	}
+}
+
+material textures/PaperEnemyTexture
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture PaperEnemyTexture.jpg
+			}
+		}
+	}
+}
+
+material textures/steelhead
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture steelhead.png
+			}
+		}
+	}
+}
+material textures/houseTexture
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture houseTexture.jpg
+			}
+		}
+	}
+}
+material textures/penguin
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture penguin.jpg
+			}
+		}
+	}
+}
+material textures/blue_jaiqua
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture blue_jaiqua.jpg
+			}
+		}
+	}
+}
